@@ -1,0 +1,6 @@
+jupyterlab
+noodles
+matplotlib
+numpy
+scipy
+
