@@ -1,6 +1,10 @@
 # adios-tests
 Experiments with Adios IO methods
 
+## Documentation on ADIOS2
+
+- [rtdf](https://adios2.readthedocs.io/en/latest/index.html)
+
 ## Installing ADIOS2
 
 1. Clone [ADIOS2](https://github.com/ornladios/ADIOS2)
